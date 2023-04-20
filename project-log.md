@@ -8,15 +8,15 @@
 - notes go here
 
 ## pitch
-- My research topic is:
-- My research question is:
-- I expect to work with the following *materials*:
-- I plan to *process* these materials by:
-- I plan to *present* these materials by:
-- My final submission will take this form: 
-- This project is intended to engage these audiences and communities:
-- I bring the following existing knowledge and/or skills to the project: 
-- In order to do this project, I need to learn: 
+- My research topic is: The role of digital media in student activism
+- My research question is: How has social media transformed possibilities for student activism?
+- I expect to work with the following *materials*: historical archives, images, links, student blogs, current social media
+- I plan to *process* these materials by: Markdown
+- I plan to *present* these materials by: Multi-media essay
+- My final submission will take this form: Multi-media essay on GitHub
+- This project is intended to engage these audiences and communities: college students
+- I bring the following existing knowledge and/or skills to the project: I will bring my knowledge regarding the current role of social media in todays society regarding more current events
+- In order to do this project, I need to learn: I need to gather information consisting of historical archives, student blogs, and generally how student actvism begun at the University. I want to gain a more in depth understanding of how social media has been able to transform the way in which social and environmental justice is absorbed through our generation's mind, as well as how it is acted upon.
 
 ---
 # week 4 
