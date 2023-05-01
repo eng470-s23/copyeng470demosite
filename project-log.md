@@ -142,19 +142,19 @@ Patterson, Ryan. “Disrupt, Defy, and Demand: Movements toward Multiculturalism
 - *a 4-5 sentence annotation summarizing the main ideas and content of the piece and discussing how you plan to use it for your project.*
 
 ### source 1 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: S.W.I.N.E (Students Wildly Indignant about Nearly Everything) records, UA 107, Special Collections & University Archives, University of Oregon Libraries, Eugene, Oregon.
+- summary: Students Wildly Indignant about Nearly Everything (S.W.I.N.E.) was a student group at the University of Oregon. The collection contains office files, budget files, news clippings, newsletters, and membership lists that provide insight as to how the student group operated, what work they produced, and how they were perceived by the surrounding community.
+- potential use for project: This source acted as my primary example of a student activist group that gained a great amount of attention for being different and mocking the current behaviors of protesters during the political climate of the 1960s. I analyzed a multitude of different files and newspaper clippings that informed me about how information was spread and what methods of advocacy were deemed as successful on UO’s campus. This acted as a great comparison for current student activist groups on campus and allowed me to understand the progression of successful methods of activism. I also asked the question, “If media and technology were at the level of advancement they are now, would S.W.I.N.E. still be an active group on campus today”? I aim to answer this question by understanding  how and why modern methods of activism through digital media are so successful.
 
 ### source 2 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Rhoads, Robert A. Student Activism as an Agent of Social Change: A Phenomenal Analysis of Contemporary Campus Unrest. 1997, https://files.eric.ed.gov/fulltext/ED407902.pdf.
+- summary: Provided me with insight as to how student activism first began and why it became so effective amongst college campuses. Rhoads explains the “power” behind student voices and their ability to alter the course of our nation's future to adhere to a more socially progressive environment. Researchers explore motivations behind student activism by examining the various issues that have sparked unrest across college campuses. They explore strategies employed by student activists such as protests, sit-ins, and social media campaigns in order to analyze their effectiveness in achieving long-lasting and tangible outcomes.
+- potential use for project: Helped me form an analysis of what methods of student activism on college campuses have been successful in recent years and create a comparison between the University of Oregon specifically. This source also allowed me to understand the institutional changes that occur on college campuses when social unrest occurs and assess the long-term effects of such changes on campus environments and broader societies in general.
 
 ### source 3 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Patterson, Ryan. “Disrupt, Defy, and Demand: Movements toward Multiculturalism at the University of Oregon, 1968-2015.” Berkeley Review of Education, Berkeley Graduate School of Education, University of California, 5648 Tolman Hall, Berkeley, CA 94702. Web Site: Https://Escholarship.org/Uc/ucbgse_bre, 30 Nov. 2019, https://eric.ed.gov/?id=EJ1256910.
+- summary: This source acted as a historical and comprehensive analysis of the student movements that advocated for multiculturalism at the University of Oregon over the span of 5 decades. Examining the demands, strategies, and overall impact of these movements, Patterson highlights the contributions and outcomes of creating a more inclusive and diverse campus that encourages students to use their voices. Drawing attention to the 1960s when the Civil Rights Movement was gaining momentum, Patterson analyzes how these broader social changes influenced activism on UO’s campus socially and within the school's education system.
+- potential use for project: This source adds value to my project by understanding the history of student activism, multiculturalism, and social change on university campuses. This source also offers insight into more current and future efforts to promote equity and inclusion in higher education, and how these efforts could act as a tool in professional industries and future career paths. As Patterson also draws attention to the response of the administration to such demands, I will use this as a marker to see what methods of activism would still deem as successful and if there is an opportunity for new ones in digital media. 
 
 ---
 # week 6
