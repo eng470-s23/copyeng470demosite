@@ -24,7 +24,72 @@
 - notes go here
 
 ## search log
-- search log goes here
+- UO Library Database
+
+Search Term(s): History of student activism
+
+SOURCE #3
+
+Title: Student Voice: Embracing Student Activism as a Quality Improvement Tool in Higher Education 
+
+Author: Evelyn Chiyevo Garwe
+
+Year: June 2017
+
+Search Term(s): Progression of student activism
+
+SOURCE #4
+
+Title: Student Activism as an Agent of Social Change: A Phenomenal Analysis of Contemporary Campus Unrest
+
+Author: Robert A. Rhoads
+
+Year: 1997
+
+
+Search Term(s): Digital media and activism
+
+SOURCE #8
+
+Title: “Disrupting Educational Inequalities Through Youth Digital Activism.”
+
+Author: Stornaiuolo, Amy, and Ebony Elizabeth Thomas
+
+Journal: JSTOR - Review of Research in Education
+
+Year: 2017
+
+
+Search Term(s): Digital technology in prosocial movements
+
+SOURCE #9
+
+Title: How Digital Media Reshapes Political Activism: Mass Protests, Social Mobilization, and Civic Engagement.”
+
+Author: Glyn Brennan
+
+Year: 2018
+
+
+Search Term(s): Student activism at the University of Oregon
+
+SOURCE #7
+
+Title: Disrupt, Defy, and Demand: Movements toward Multiculturalism at the University of Oregon, 1968-2015
+
+Author: Patterson, Ryan
+
+Journal: Berkeley Review of Education 9.2 
+
+Year: 2020
+
+
+Search Term(s): S.W.I.N.E.
+
+SOURCE #1: 
+
+S.W.I.N.E (Students Wildly Indignant about Nearly Everything) records, UA 107, Special Collections & University Archives, University of Oregon Libraries, Eugene, Oregon.
+
 
 ## bibliography
 *The bibliography should include at least seven (7) sources:*
@@ -33,15 +98,36 @@
 - *the other 2+ sources may be primary, scholarly, popular, journalistic, governmental/policy documents, datasets, etc.*
 
 1. source #1
-2. source #2
-3. source #3
-4. source #4
-5. source #5
-6. source #6
-7. source #7
+ 
+S.W.I.N.E (Students Wildly Indignant about Nearly Everything) records, UA 107, Special Collections & University Archives, University of Oregon Libraries, Eugene, Oregon.
+
+3. source #2
+
+Altbach, Philip G. “Perspectives on Student Political Activism.” Comparative Education, vol. 25, no. 1, 1989, pp. 97–110. JSTOR, http://www.jstor.org/stable/3099006. Accessed 25 Apr. 2023.
+
+5. source #3
+
+Garwe, Evelyn. Student Voice: Embracing Student Activism as a Quality Assurance Tool ... 2017, https://www.researchgate.net/publication/315684606_Student_voice_Embracing_student_activism_as_a_quality_assurance_tool_in_higher_education. 
+
+7. source #4
+
+Rhoads, Robert A. Student Activism as an Agent of Social Change: A Phenomenal Analysis of Contemporary Campus Unrest. 1997, https://files.eric.ed.gov/fulltext/ED407902.pdf. 
+
+9. source #5
+
+Gleason, Benjamin, and Sam von Gillern. “Digital Citizenship with Social Media: Participatory Practices of Teaching and Learning in Secondary Education.” Journal of Educational Technology & Society, vol. 21, no. 1, 2018, pp. 200–12. JSTOR, http://www.jstor.org/stable/26273880. Accessed 25 Apr. 2023.
+
+11. source #6
+
+Croxten, James, and Melanie Henshaw. “Protesters Take Direct Action on UO Campus during 16th Week of Protests ...” The Daily Emerald, 2020, https://www.dailyemerald.com/news/protesters-take-direct-action-on-uo-campus-during-16th-week-of-protests/article_b74e2dce-09c1-11eb-8f91-77ead8e3ab08.html. 
+
+13. source #7
+
+Patterson, Ryan. “Disrupt, Defy, and Demand: Movements toward Multiculturalism at the University of Oregon, 1968-2015.” Berkeley Review of Education, Berkeley Graduate School of Education, University of California, 5648 Tolman Hall, Berkeley, Web Site: Https://Escholarship.org/Uc/ucbgse_bre, 30 Nov. 2019, https://eric.ed.gov/?id=EJ1256910. 
 
 ## reading plan
-- reading plan goes here
+- My intended reading plan is to block off 1-2 hours every other day to focus on course readings and research. My least busy days are Tuesdays and Thursdays which would allow me to prioitize readings prior to class meeting times. Allocating enough time between Monday and Friday for research readings should be easy, as I have gaps between classes and know of abundance of quiet places to work on campus.
+
 
 ---
 # week 5
