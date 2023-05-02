@@ -9,7 +9,7 @@
 
 ## pitch
 - My research topic is: The role of digital media in student activism
-- My research question is: How has social media transformed possibilities for student activism?
+- My research question is: How has digital media transformed possibilities for student activism?
 - I expect to work with the following *materials*: historical archives, images, links, student blogs, current social media
 - I plan to *process* these materials by: Markdown
 - I plan to *present* these materials by: Multi-media essay
