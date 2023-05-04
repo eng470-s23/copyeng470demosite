@@ -205,7 +205,7 @@ How has digital media impacted the way we absorb and act upon social issues on c
 ### dependencies and resources
 *What resources do you need to reach your goals? Consider equipment, technologies, programs, web hosting, data storage, expertise, and time. Where will you get the resources you need? Identify specific entities, offices, subscriptions, spaces, etc. available through UO or the community.*
 
-- respond here 
+- Some resources I have utilized to reach my goal include the Special Archives Collection located at the Knight Library at the University of Oregon to anaylze my primary source: The S.W.I.N.E collection. Technologies I will be using include a qualitics survey and understanding the use and creating my own GitHub. I did not need to utilize any extra data storage or equipment to gather my information. A few resources I will need include pre-exisiting multircultural student repositories and visiting multicultural center located at the EMU to ask questions and get a better understanding of the current state of student activism on campus. 
 
 ---
 # week 7
