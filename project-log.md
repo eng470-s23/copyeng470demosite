@@ -143,7 +143,7 @@ How has digital media impacted the way we absorb and act upon social issues on c
 - *a 4-5 sentence annotation summarizing the main ideas and content of the piece and discussing how you plan to use it for your project.*
 
 ### source 1 annotation
-- citation: S.W.I.N.E (Students Wildly Indignant about Nearly Everything) records, UA 107, Special Collections & University Archives, University of Oregon Libraries, Eugene, Oregon.
+- citation: S.W.I.N.E (Students Wildly Indignant about Nearly Everything) records, UA 107, Special Collections & University Archives, University of Oregon Libraries, Eugene, Oregon, 1966-1967.
 - summary: Students Wildly Indignant about Nearly Everything (S.W.I.N.E.) was a student group at the University of Oregon. The collection contains office files, budget files, news clippings, newsletters, and membership lists that provide insight as to how the student group operated, what work they produced, and how they were perceived by the surrounding community.
 - potential use for project: This source acted as my primary example of a student activist group that gained a great amount of attention for being different and mocking the current behaviors of protesters during the political climate of the 1960s. I analyzed a multitude of different files and newspaper clippings that informed me about how information was spread and what methods of advocacy were deemed as successful on UO’s campus. This acted as a great comparison for current student activist groups on campus and allowed me to understand the progression of successful methods of activism. I also asked the question, “If media and technology were at the level of advancement they are now, would S.W.I.N.E. still be an active group on campus today”? I aim to answer this question by understanding  how and why modern methods of activism through digital media are so successful.
 
@@ -165,24 +165,24 @@ How has digital media impacted the way we absorb and act upon social issues on c
 ## annotated bibliography, continued
 
 ### source 4 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Altbach, Philip G. “Perspectives on Student Political Activism.” Comparative Education, vol. 25, no. 1, 1989, pp. 97–110. JSTOR, [Perspectives on Syudent Political Activism](http://www.jstor.org/stable/3099006). Accessed 25 Apr. 2023.
+- summary: This scholarly article highlights the importance of student voices and actions in political and social movements and provided me with insight as to how these theories have played into our nation's history and more recent progressions toward social activism’s role in today’s society. Altbach offers insights into the challenges, motivations, and outcomes associated with student political activism.
+- potential use for project: I intend to use this source as an added layer of understanding towards the obstacles that student activists are faced on college campuses. Understanding the perspective that is held by students and the surrounding environment will allow me to understand the significance of digital media in today’s extremely polarizing political climate.
 
 ### source 5 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Garwe, Evelyn. Student Voice: Embracing Student Activism as a Quality Assurance Tool ... 2017, [Student Voice: Embracing Student Activism as a Quality Assurance Tool](https://www.researchgate.net/publication/315684606_Student_voice_Embracing_student_activism_as_a_quality_assurance_tool_in_higher_education). 
+- summary: This source provided me with insight as to how student activism represents an effective way of supporting critical thinking and analysis in the educational field. Partaking in social activism allows students to advocate democratic practices in schools and workplaces within their communities. Supporting student activism is capable of enhancing student skills such as collaboration, organization, and citizenship.
+- potential use for project: This source acted as a guideline to help me understand how successful the strategies that students have attained through activism and how it supports their ability to perform better in the classroom. Understanding the way these two concepts interact proves the functionality and benefits of using your voice to make a change in your environment and will act a guideline to for the University of Oregon’s students and administration. 
 
 ### source 6 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Gleason, Benjamin, and Sam von Gillern. “Digital Citizenship with Social Media: Participatory Practices of Teaching and Learning in Secondary Education.” Journal of Educational Technology & Society, vol. 21, no. 1, 2018, pp. 200–12. JSTOR, [Digital Citizenship with Social Media: Participatory Practices of Teaching and Learning in Secondary Education](http://www.jstor.org/stable/26273880). Accessed 25 Apr. 2023.
+- summary: This source explores the topic of digital citizenship and its connection to social media usage in secondary education. Gleason and Von Gillern discuss the potential benefits and challenges of integrating social media into school classrooms with hopes to improve digital citizenship skills among students.
+- potential use for project: This article provided insight for my project by explaining effective strategies for utilizing social media for activism and social and political justice. Also explaining the impact of social media on student engagement in the classroom allows me to gauge a general idea of how modern media can assist the consumption of media and learning objectives.
 
 ### source 7 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Croxten, James, and Melanie Henshaw. “Protesters Take Direct Action on UO Campus during 16th Week of Protests ...” The Daily Emerald, 2020, [Protesters Take Direct Action on UO Campus during 16th Week of Protests](https://www.dailyemerald.com/news/protesters-take-direct-action-on-uo-campus-during-16th-week-of-protests/article_b74e2dce-09c1-11eb-8f91-77ead8e3ab08.html). 
+- summary: This source informed me of a more recent and notable act of student activism on UO’s campus that took place in 2020. Including direct actions taken by protesters as well as the university's response to such unrest, this article provided time stamps and organized plans of action to gain recognition for the cause.
+- potential use for project: This was used in my project to analyze the ways in which students are currently facing social and political injustice on campus. Digital media played a vital role in the recognition of this protest, as students began posting photos with hashtags and creating online communities to amplify their voices. I plan to recognize successful strategies used in this protest and implicate similar ideas to more recent acts of activism on campus.
 
 ## environmental scan
 *The environmental scan situates your project within the existing scholarly research and articulates its contribution. Answer each of the following questions in about one well-developed paragraph. You may use bulleted lists to organize your thoughts, but please write in complete sentences.*
@@ -190,17 +190,17 @@ How has digital media impacted the way we absorb and act upon social issues on c
 ### contribution
 *Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?*
 
-- respond here 
+- In this project I will unpack the role of digital media in student activism and how it has created both opportunities and challenges for this technologically advanced generation of students. Something unique about this project is the inclusion of past activist groups on campus and how they operated in terms of successful and harmful acts of social and political justice. I also discuss the implementation of today’s advanced media and technologies that have caused a generational gap in democratic practices, highlighting the ways in which the University of Oregon specifically has overcome such hardships and what methods have changed over time.
 
 ### methods
 *What tools and methods will you use, and why are those the best technologies for your purposes?*
 
-- respond here 
+- The tools and methods used for the construction of this multimedia essay are simple yet provide accurate and diverse opinions on the rise of student activism and digital media. Tools used for this essay include social media platforms such as Instagram, Twitter, Facebook, and TikTok to assess the current standing of activist groups across campus. Another tool I implicated during my research was creating a student survey that allowed me to collect data and opinions from students, activists, or both. The information I intend to gather will allow me to form a general idea regarding where students stand in terms of activism and if they feel like they are making a visible difference in their community. 
 
 ### stakeholders / audiences
 *For whom is your project intended: academics, members of the public, your institution, etc.? Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?*
 
-- respond here 
+- My project is initially intended for the academic education team and student population at the Univeristy of Oregon but could be accessed and absorbed by anyone interested in the relationship between digital media and activism. I intend to reach my target audience by making this multi-media essay accessible on student repositories and possibly even the Digital Humanities Website at UO. My goal is to educate and inform audiences of the inconsistencies and benefits that exist within digital media, encouraging younger generations to use their voice and media platforms to spread awareness with intention and credibility. 
 
 ### dependencies and resources
 *What resources do you need to reach your goals? Consider equipment, technologies, programs, web hosting, data storage, expertise, and time. Where will you get the resources you need? Identify specific entities, offices, subscriptions, spaces, etc. available through UO or the community.*
