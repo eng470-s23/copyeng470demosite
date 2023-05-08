@@ -1,11 +1,7 @@
 # week 2
-## notes
-- notes go here
 
 ---
 # week 3
-## notes
-- notes go here
 
 ## pitch
 - My research topic is: The role of digital media in student activism
@@ -19,9 +15,7 @@
 - In order to do this project, I need to learn: I need to gather information consisting of historical archives, student blogs, and generally how student actvism begun at the University. I want to gain a more in depth understanding of how social media has been able to transform the way in which social and environmental justice is absorbed through our generation's mind, as well as how it is acted upon.
 
 ---
-# week 4 
-## notes
-- notes go here
+# week 4
 
 ## search log
 - UO Library Database
@@ -131,16 +125,11 @@ Patterson, Ryan. “Disrupt, Defy, and Demand: Movements toward Multiculturalism
 
 ---
 # week 5
-## notes
-- notes go here
 
 ## research question
 How has digital media impacted the way we absorb and act upon social issues on college campuses? 
 
 ## annotated bibliography
-*Each annotation should include:*
-- *a full citation in Chicago, MLA, APA, or AP style (or another style appropriate to your discipline, with approval)*
-- *a 4-5 sentence annotation summarizing the main ideas and content of the piece and discussing how you plan to use it for your project.*
 
 ### source 1 annotation
 - citation: S.W.I.N.E (Students Wildly Indignant about Nearly Everything) records, UA 107, Special Collections & University Archives, University of Oregon Libraries, Eugene, Oregon, 1966-1967.
@@ -159,8 +148,6 @@ How has digital media impacted the way we absorb and act upon social issues on c
 
 ---
 # week 6
-## notes
-- notes go here
 
 ## annotated bibliography, continued
 
