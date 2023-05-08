@@ -86,10 +86,6 @@ S.W.I.N.E (Students Wildly Indignant about Nearly Everything) records, UA 107, S
 
 
 ## bibliography
-*The bibliography should include at least seven (7) sources:*
-- *at least one primary (literary or archival) source or dataset you are studying or examining;* 
-- *at least four peer-reviewed scholarly sources framing and informing your thinking: articles, chapters, or books published by university or academic presses, or excerpts from academic reference sources (note that being deposited in Scholars' Bank does *not* mean a source is peer reviewed.)*
-- *the other 2+ sources may be primary, scholarly, popular, journalistic, governmental/policy documents, datasets, etc.*
 
 1. source #1
  
