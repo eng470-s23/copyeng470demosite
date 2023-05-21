@@ -1,27 +1,23 @@
 # about this file
-Based on the [UO library research guide on data management](https://researchguides.uoregon.edu/data-management) and UO's [Basic Accessibility Testing guidance](https://digitalaccessibility.uoregon.edu/assessment/basictesting).
+
+- This file, A Multimedia Essay (.pdf), is where the original organization and documentation of my research were kept and later divided into separate files within a ToolKit created on GitHub. My sources have acted as a framework that guided the creation of my essay in which I added personal insight and comparisons to novel digital media practices and its interaction with student actvism.
 
 # expected data and formats
-*Data may originate from observations, experiments, or references; it may be derived from other sources, transformed, or the result of a simulation. Describe your data file formats. Whenever possible, [use non-proprietary formats](https://researchguides.uoregon.edu/data-management/fileformats) or convert your data to open, shareable formats when archiving data. Remember: data also includes your code and workflow documentation!*
 
-- your text here
+- File formats used to collect and document my data include qualitative data (.txt, .pdf) and digital media data (.jpeg, .jpg). This consists of an abundance of scholarly and historical written works in the formats of articles, essays, and books as well as website links. The data will be recorded in Google Docs which will then later be processed to Markdown format on GitHub.
 
 # documentation and metadata
-*Describe how you will [document your data](https://researchguides.uoregon.edu/data-management/readme) as you gather it. Descriptions of your data (or metadata) can help you and others locate, understand, and interpret your data. Describe the applicable standards for metadata content and format that you will follow, including the procedures and tools/software you will use to capture and edit the metadata.*
 
-- your text here
+- The majority of my data has been gathered through original observations regarding the standpoint of digital media and how it interacts with student activism and on a broader scale, education systems entirely. My data also consists of the use of historical and scholarly articles written about the significance and impact of encouraging student voices. These sources have acted as a framework that guided the creation of my Multimedia Essay in which I initially tracked my findings and data. The final publication format will be in the layout of an interactive ‘ToolKit’ that provides users with access to original insight. Using Google Docs as my original software, I will be uploading individual areas of information and research in the format of a Tool Kit on GitHub.
 
 # organization and storage
-*Describe your [file naming convention and version control practices](https://researchguides.uoregon.edu/data-management/filenaming). Describe [storage methods and backup procedures](https://researchguides.uoregon.edu/data-management/backup) for the data, including physical and cyber resources and facilities (hard-disk space, backup server, repository). Describe how you will take into consideration privacy, security, intellectual property, and other rights.*
 
-- your text here
+- My file naming convention will be kept simple and straightforward and organized by area of research and specific works. For example, my explanation and insight towards the L.A.C.E. Framework will be kept in one file along with other files that link readers to the UO website. Consisting of .jpegs and .txts formats, all research conducted for that area of study will include laceframework.jpeg or .pdf.. Version control practices will be organized by specific areas of research within the Tool Kit using GitHub.
 
 # sharing, publication, and archiving
-*Describe what you will do to [provide others access to the data](https://researchguides.uoregon.edu/data-management/archiving). Identify any restrictions on who may access the data and under what conditions and a timeline for providing access. Also describe your plans for preserving data, outlining any changes in access anticipated during the preservation timeline, and documenting the resources and capabilities (e.g., equipment, connections, systems, expertise) needed to meet the preservation goals.*
 
-- your text here
+- In order to provide access to others access to the data I would like to deposit my data to UO’s Data Repository. DOI links with associated data will be stored and archived in the UO Scholars’ Bank and will be preserved according to the current standards and practices. There should be no restrictions as to who can access my data. Anticipated changes regarding the current standpoint of the topic may be subject to change as time goes on but the information will not be updated if changes occur before the publication date. 
 
 # accessibility
-*Describe your plans for ensuring that your data and project outputs are accessible for users with disabilities. Basic accessibility features include the use of alternative text for images; captions and transcripts for videos; large, easy-to-read fonts; high-contrast color schemes; text content broken up logically with section headers and lists; and links embedded [in context](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html) rather than on phrases like [click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ). Be specific about how you will implement accessibility features that are relevant to your data.*
 
-- your text here
+- The data will be made accessible for users with disabilities by using large fonts, contrasting and evident color schemes, and organized by different headings. I want the data to be easy to follow and draw upon for future use or insight regarding the subject matter. I will be naming file links for clarity and providing users will the ability to draw upon specific areas of the research with straightforward link headings and placements.
