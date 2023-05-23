@@ -131,6 +131,9 @@ source #11
 
 Gleason, B., & von Gillern, S. (2018). Digital Citizenship with Social Media: Participatory Practices of Teaching and Learning in Secondary Education. Educational Technology & Society, 21 (1), 200–212. [Digital Citizenship with Social Media: Participatory Practices of Teaching and Learning in Secondary Education](https://www.jstor.org/stable/pdf/26273880.pdf?refreqid=excelsior%3Ab02aa7cd7452cf47fb2776764cf06263&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&origin=&initiator=)
 
+source #12
+
+“Univeristy of Oregon Organizations.” - Engage, [University of Oregon Organizations](uoregon.campuslabs.com/engage/organizations). Accessed 23 May 2023.
 
 ## reading plan
 - My intended reading plan is to block off 1-2 hours every other day to focus on course readings and research. My least busy days are Tuesdays and Thursdays which would allow me to prioitize readings prior to class meeting times. Allocating enough time between Monday and Friday for research readings should be easy, as I have gaps between classes and know of abundance of quiet places to work on campus.
