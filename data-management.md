@@ -4,8 +4,7 @@
 
 # expected data and formats
 
-- File formats used to collect and document my data include qualitative data (.txt, .pdf) and digital media data (.jpeg, .jpg). This consists of an abundance of scholarly and historical written works in the formats of articles, essays, and books as well as website links. The data will be recorded in Google Docs which will then later be processed to Markdown format on GitHub. The file names will include the source, key term of photo, and will be in a .jpeg format. For example, this source: Oregon Daily Emerald Newspaper, 1966, S.W.I.N.E (Students Wildly Indignant about Nearly Everything) records, UA 107, Special Collections & University Archives, University of Oregon Libraries, Eugene, Oregon.
-The file name would be ua_dailyemerald_essenceofinactivsm.jpeg
+- File formats used to collect and document my data include qualitative data (.txt, .pdf) and digital media data (.jpeg, .jpg). This consists of an abundance of scholarly and historical written works in the formats of articles, essays, and books as well as website links. The data will be recorded in Google Docs which will then later be processed to Markdown format on GitHub. The file names will include the source, key term of photo, and will be in a .jpeg format.
 
 # documentation and metadata
 
@@ -13,7 +12,9 @@ The file name would be ua_dailyemerald_essenceofinactivsm.jpeg
 
 # organization and storage
 
-- My file naming convention will be kept simple and straightforward and organized by area of research and specific works. For example, my explanation and insight towards the L.A.C.E. Framework will be kept in one file along with other files that link readers to the UO website. Consisting of .jpegs and .txts formats, all research conducted for that area of study will include laceframework.jpeg or .pdf.. Version control practices will be organized by specific areas of research within the Tool Kit using GitHub.
+- My file naming convention will be kept simple and straightforward and organized by area of research and specific works. For example, my explanation and insight towards the L.A.C.E. Framework will be kept in one file along with other files that link readers to the UO website. Consisting of .jpegs and .txts formats, all research conducted for that area of study will include laceframework.jpeg or .pdf.. Version control practices will be organized by specific areas of research within the Tool Kit using GitHub. 
+- For example, this source: Oregon Daily Emerald Newspaper, 1966, S.W.I.N.E (Students Wildly Indignant about Nearly Everything) records, UA 107, Special Collections & University Archives, University of Oregon Libraries, Eugene, Oregon.
+The file name would be ua_dailyemerald_essenceofinactivsm.jpeg
 
 # sharing, publication, and archiving
 
