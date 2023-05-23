@@ -15,12 +15,12 @@ This repository is a demo for ENG 470/570 students to clone in order to create i
 
 ## Project-level Basic Information - Introduction 
 
-1. Project Name
-2. Dataset file name(s) and extension(s)
-3. Project description/abstract/keywords
-4. Authors and collaborators, including ORCID IDs and contact information
-5. Dates of Data Collection (YYYYMMDD format)
-6. Date of file creation and updates, and nature of those updates (YYYYMMDD format)
+1. Project Name: The Role of Digital Media in Student Activism at the University of Oregon
+3. Dataset file name(s) and extension(s)
+4. Project description/abstract/keywords
+5. Authors and collaborators, including ORCID IDs and contact information
+6. Dates of Data Collection (YYYYMMDD format)
+7. Date of file creation and updates, and nature of those updates (YYYYMMDD format)
 
 ## Data Access & Sharing
 1. [Licenses](https://choosealicense.com/) for the data and restrictions placed on the data
