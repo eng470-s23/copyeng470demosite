@@ -4,7 +4,8 @@
 
 # expected data and formats
 
-- File formats used to collect and document my data include qualitative data (.txt, .pdf) and digital media data (.jpeg, .jpg). This consists of an abundance of scholarly and historical written works in the formats of articles, essays, and books as well as website links. The data will be recorded in Google Docs which will then later be processed to Markdown format on GitHub.
+- File formats used to collect and document my data include qualitative data (.txt, .pdf) and digital media data (.jpeg, .jpg). This consists of an abundance of scholarly and historical written works in the formats of articles, essays, and books as well as website links. The data will be recorded in Google Docs which will then later be processed to Markdown format on GitHub. The file names will include the source, key term of photo, and will be in a .jpeg format. For example, this source: Oregon Daily Emerald Newspaper, 1966, S.W.I.N.E (Students Wildly Indignant about Nearly Everything) records, UA 107, Special Collections & University Archives, University of Oregon Libraries, Eugene, Oregon.
+The file name would be ua_dailyemerald_essenceofinactivsm.jpeg
 
 # documentation and metadata
 
