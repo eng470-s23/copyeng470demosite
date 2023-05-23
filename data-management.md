@@ -1,6 +1,19 @@
 # about this file
 
-- This file, A Multimedia Essay (.pdf), is where the original organization and documentation of my research were kept and later divided into separate files within a ToolKit created on GitHub. My sources have acted as a framework that guided the creation of my essay in which I added personal insight and comparisons to novel digital media practices and its interaction with student actvism.
+- The original documentation of this file, A Multimedia Essay (.pdf), is where the original organization and documentation of my research was kept and later divided into separate files titled accordingly:
+  - Abstract
+  - Introduction
+  - S.W.I.N.E.
+  - Historical Archives 
+  - History of Student Activism at UO
+  - What is Digital Media?
+  - Digital Literacy: A Take on Generational Skepticism in the Media
+  - How has media today transformed our consumption of activism?
+  - Case Study
+  - Current UO Student Activist Groups
+  - L.A.C.E.
+  - Concluding Thoughts
+- My sources have acted as a framework that guided the creation of my essay in which I added personal insight and comparisons to novel digital media practices and its interaction with student actvism. The files inlcude [.       ]
 
 # expected data and formats
 
