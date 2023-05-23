@@ -8,7 +8,7 @@
 
 # documentation and metadata
 
-- The majority of my data has been gathered through original observations regarding the standpoint of digital media and how it interacts with student activism and on a broader scale, education systems entirely. My data also consists of the use of historical and scholarly articles written about the significance and impact of encouraging student voices. These sources have acted as a framework that guided the creation of my Multimedia Essay in which I initially tracked my findings and data. The final publication format will be in the layout of an interactive ‘ToolKit’ that provides users with access to original insight. Using Google Docs as my original software, I will be uploading individual areas of information and research in the format of a Tool Kit on GitHub.
+- The majority of my data has been gathered through original observations regarding the standpoint of digital media and how it interacts with student activism and on a broader scale, education systems entirely. My data also consists of the use of historical and scholarly articles written about the significance and impact of encouraging student voices. These sources have acted as a framework that guided the creation of my Multimedia Essay in which I initially tracked my findings and data. I will be documenting my files and images on the README section of the images folder. The final publication format will be in the layout of a ‘ToolKit’ that provides users with access to original insight. Using Google Docs as my original software, I will be uploading individual areas of information and research in the format of a Tool Kit on GitHub.
 
 # organization and storage
 
