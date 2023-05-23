@@ -1,6 +1,6 @@
-README - images
+# README - images
 
-*Licensing from the University of Oregon Special Collections Archives*
+*Licensing aquired from the University of Oregon Special Collections Archives*
 - ua_swine_volume3.jpeg
 - ua_swinedailyemerald.jpeg
 - ua_swinedailyemerald_essenceofinactivism.jpeg
