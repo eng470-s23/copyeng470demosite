@@ -10,4 +10,4 @@ README - images
 - uo_lgbtess_instagram.jpeg
 
 *Licensing aquired from the Oregon Daily Emerald*
-- dailyemerald_UO_protesters.jpeg
+- dailyemerald_UO_protesters.png
