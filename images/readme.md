@@ -47,8 +47,6 @@
   - Rights: In copyright
   - License and permission: *Licensing aquired from the creator of the account: @uo_lgbtess* © 2023 Instagram from Meta
 
-*Licensing aquired from the Oregon Daily Emerald*
-Credits: Emerald Media Group/the Daily Emerald
 - File Name: dailyemerald_UO_protesters.png
   - Publisher: Emerald Media Group
   - Date: 2020.10.09
@@ -57,3 +55,12 @@ Credits: Emerald Media Group/the Daily Emerald
   - Access Date: 2023.05.02
   - Rights: In copyright
   - License and permission: ![dailyemerald_UO_protestors.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/dailyemerald_2020_permissions.png)
+
+File Name: oregonlive_2023_studentunion.jpeg
+  - Publisher: The Oregonian
+  - Date: 2023.02.11
+  - Source: Oregon Live
+  - Author:Sami Edge
+  - Access Date: 2023.05.14
+  - Rights: In copyright
+  - License and permission: In copyrigh
