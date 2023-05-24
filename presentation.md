@@ -93,10 +93,14 @@ Current UO Student Activist Groups:
 
 [University of Oregon's L.A.C.E. Framework](https://inclusion.uoregon.edu/lace-framework)
 
+In order to raise personal awareness and knowledge within the University of Oregon’s student body and faculty, a framework entitled L.A.C.E. has been developed and incorporated into the university’s community guidelines. Standing for love, authenticity, courage, and empathy, this framework focuses on deepening individual self-awareness and knowledge. The framework is divided into three sections where the first recognizes self-awareness, the second focuses on building connections with individuals and communities, and the third strives to transform individuals, systems, and societies.
+
 ![Where I'm From Poem](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/uo_2017_whereimfrom_lace.jpeg)
 ![Where I'm From Poem](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/uo_2017_whereimfrom_lace1.jpeg)
 
+The framework is inspired by the poem Where I’m From by George Ella Lyon which uses sensory language as a way to tell her origin story. The project prompted students to use descriptive language to discuss core memories of their upbringing, highlighting the beauty of their individuality. The L.A.C.E. Framework is constructed for students to increase their sense of self-awareness in order to generate awareness in their surrounding environments. Self-awareness means becoming aware of where an individual, whether that be yourself or others, comes from or recognizing hardships they might have had to overcome because of their upbringing. Obtaining a sense of community through knowledge should be at the core of all educational systems, as it allows students to feel comfortable in an environment where it's normal to make mistakes and normal to hold different opinions than one's peers. Gaining inspiration from such heartwarming and self-expressive pieces of written works, the L.A.C.E. framework is essentially created by students, for students. Similar frameworks have been incorporated into a large majority of Universities within the United States with one common goal: becoming aware and informed about one’s community and the importance of preserving and incorporating diversity and inclusion within education systems.
 
+## Conclusion
 
 
 
