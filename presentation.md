@@ -85,6 +85,15 @@ Digital media has created a significant and notable impact in efforts to maximiz
 Current UO Student Activist Groups:
 [Current UO Activist Groups](https://uoregon.campuslabs.com/engage/organizations)
 
+[Student Workers Instagram](https://www.instagram.com/uostudentworkers/?hl=en)
+
+[GitHub](https://uostudentworkers.gitlab.io/)
+
+## Implication of The L.A.C.E. Framework
+
+[University of Oregon's L.A.C.E. Framework](https://inclusion.uoregon.edu/lace-framework)
+
+
 
 
 
