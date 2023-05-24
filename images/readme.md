@@ -73,3 +73,12 @@ File Name: uo_2017_whereimfromlace.jpeg
   - Access Date: 2023.05.24
   - Rights: In copyright
   - License and permission: *Licensing aquired from University of Oregon*
+
+File Name: creativecommons_elderlyusingmedia.jpeg
+  - Publisher: Wiki Media Commons
+  - Date: 2013.07.03
+  - Source: Original Work
+  - Author: Sigismund von Dobschütz
+  - Access Date: 2023.05.24
+  - Rights: Attribution rights
+  - License and permission: "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)" by [Sigismund von Dobschütz], licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0), [Link to License](https://creativecommons.org/licenses/by-sa/3.0/).
