@@ -63,4 +63,13 @@ File Name: oregonlive_2023_studentunion.jpeg
   - Author:Sami Edge
   - Access Date: 2023.05.14
   - Rights: In copyright
-  - License and permission: In copyrigh
+  - License and permission: In copyright
+
+File Name: uo_2017_whereimfromlace.jpeg
+  - Publisher: Models of Excellence
+  - Date: 2017.10.06
+  - Source: University of Oregon L.A.C.E. Framework
+  - Author: George Ella Lyon
+  - Access Date: 2023.05.24
+  - Rights: In copyright
+  - License and permission: *Licensing aquired from University of Oregon*
