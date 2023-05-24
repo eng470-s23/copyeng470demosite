@@ -65,7 +65,7 @@ With the use of more modern digital media such as Instagram, TikTok, Facebook, a
 
 ## Case Study: University of Oregon Students Fight for Union, alleged retaliation
 
-![oregonlive_2023_studentunion.jpeg](https://www.oregonlive.com/education/2023/02/university-of-oregon-student-workers-fight-for-union-allege-retaliation.html)
+![oregonlive_2023_studentunion.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/oregonlive_2023_studentunion.jpeg)
 
 In order to understand the educational outcome of student activist efforts and what specific actions the University of Oregon is taking to educate its students regarding the correlation between activism, digital literacy, and higher education levels, I wanted to examine a case study. The case study I am examining focuses on recent student unionization efforts to fight for pay raises, shorter pay periods, anti-harassment policies, and more. 
 
