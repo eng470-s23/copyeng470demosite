@@ -93,6 +93,9 @@ Current UO Student Activist Groups:
 
 [University of Oregon's L.A.C.E. Framework](https://inclusion.uoregon.edu/lace-framework)
 
+![Where I'm From Poem](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/uo_2017_whereimfrom_lace.jpeg)
+![Where I'm From Poem](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/uo_2017_whereimfrom_lace1.jpeg)
+
 
 
 
