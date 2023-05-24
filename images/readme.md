@@ -74,7 +74,7 @@ File Name: uo_2017_whereimfromlace.jpeg
   - Rights: In copyright
   - License and permission: *Licensing aquired from University of Oregon*
 
-File Name: creativecommons_elderlyusingmedia.jpeg
+File Name: wikimedia_2013_tablet.jpeg
   - Publisher: Wiki Media Commons
   - Date: 2013.07.03
   - Source: Original Work
