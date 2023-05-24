@@ -20,9 +20,8 @@
 ## search log
 - UO Library Database
 
-Search Term(s): History of student activism
 
-SOURCE #3
+### SOURCE #3
 
 Title: Student Voice: Embracing Student Activism as a Quality Improvement Tool in Higher Education 
 
@@ -30,9 +29,10 @@ Author: Evelyn Chiyevo Garwe
 
 Year: June 2017
 
-Search Term(s): Progression of student activism
+Search Term(s): History of student activism
 
-SOURCE #4
+
+### SOURCE #4
 
 Title: Student Activism as an Agent of Social Change: A Phenomenal Analysis of Contemporary Campus Unrest
 
@@ -40,10 +40,10 @@ Author: Robert A. Rhoads
 
 Year: 1997
 
+Search Term(s): Progression of student activism
 
-Search Term(s): Digital media and activism
 
-SOURCE #8
+### SOURCE #8
 
 Title: “Disrupting Educational Inequalities Through Youth Digital Activism.”
 
@@ -53,10 +53,10 @@ Journal: JSTOR - Review of Research in Education
 
 Year: 2017
 
+Search Term(s): Digital media and activism
 
-Search Term(s): Digital technology in prosocial movements
 
-SOURCE #9
+### SOURCE #9
 
 Title: How Digital Media Reshapes Political Activism: Mass Protests, Social Mobilization, and Civic Engagement.”
 
@@ -64,10 +64,10 @@ Author: Glyn Brennan
 
 Year: 2018
 
+Search Term(s): Digital technology in prosocial movements
 
-Search Term(s): Student activism at the University of Oregon
 
-SOURCE #7
+### SOURCE #7
 
 Title: Disrupt, Defy, and Demand: Movements toward Multiculturalism at the University of Oregon, 1968-2015
 
@@ -77,71 +77,76 @@ Journal: Berkeley Review of Education 9.2
 
 Year: 2020
 
+Search Term(s): Student activism at the University of Oregon
+
+
+### SOURCE #1: 
+
+S.W.I.N.E (Students Wildly Indignant about Nearly Everything) records, UA 107, Special Collections & University Archives, University of Oregon Libraries, Eugene, Oregon.
 
 Search Term(s): S.W.I.N.E.
 
-SOURCE #1: 
-
-S.W.I.N.E (Students Wildly Indignant about Nearly Everything) records, UA 107, Special Collections & University Archives, University of Oregon Libraries, Eugene, Oregon.
-
-
 ## bibliography
 
-source #1
+### source #1
  
 S.W.I.N.E (Students Wildly Indignant about Nearly Everything) records, UA 107, Special Collections & University Archives, University of Oregon Libraries, Eugene, Oregon.
 
-source #2
+### source #2
 
 Altbach, Philip G. “Perspectives on Student Political Activism.” Comparative Education, vol. 25, no. 1, 1989, pp. 97–110. JSTOR, [Perspectives on Student Political Activism](http://www.jstor.org/stable/3099006). Accessed 25 Apr. 2023.
 
-source #3
+### source #3
 
 Garwe, Evelyn. Student Voice: Embracing Student Activism as a Quality Assurance Tool ... 2017,pp. 189-200. [Student Voice: Embracing Student Activism as a Quality Assurance Tool](https://www.researchgate.net/publication/315684606_Student_voice_Embracing_student_activism_as_a_quality_assurance_tool_in_higher_education). 
 
-source #4
+### source #4
 
 Rhoads, Robert A. Student Activism as an Agent of Social Change: A Phenomenal Analysis of Contemporary Campus Unrest. 1997, pp.1-18. [Student Activism as an Agent of Social Change: A Phenomenal Analysis of Contemporary Campus Unrest](https://files.eric.ed.gov/fulltext/ED407902.pdf) 
 
-source #5
+### source #5
 
 Gleason, Benjamin, and Sam von Gillern. “Digital Citizenship with Social Media: Participatory Practices of Teaching and Learning in Secondary Education.” Journal of Educational Technology & Society, vol. 21, no. 1, 2018, pp. 200–12. JSTOR, [Digital Citizenship with Social Media: Participatory Practices of Teaching and Learning in Secondary Education](http://www.jstor.org/stable/26273880). Accessed 25 Apr. 2023.
 
-source #6
+### source #6
 
 Croxten, James, and Melanie Henshaw. “Protesters Take Direct Action on UO Campus during 16th Week of Protests ...” The Daily Emerald, 2020, [Protesters Take Direct Action on UO Campus during 16th Week of Protests](https://www.dailyemerald.com/news/protesters-take-direct-action-on-uo-campus-during-16th-week-of-protests/article_b74e2dce-09c1-11eb-8f91-77ead8e3ab08.html). 
 
-source #7
+### source #7
 
 Patterson, Ryan. “Disrupt, Defy, and Demand: Movements toward Multiculturalism at the University of Oregon, 1968-2015.” Berkeley Review of Education, Berkeley Graduate School of Education, University of California, 5648 Tolman Hall, Berkeley, Web Site: [E Scholarship](Https://Escholarship.org/Uc/ucbgse_bre), 30 Nov. 2019, pp. 1-12. [Disrupt, Defy, and Demand: Movements toward Multiculturalism at the University of Oregon, 1968-2015](https://eric.ed.gov/?id=EJ1256910). 
 
-source #8
+### source #8
 
 Oregonian/OregonLive, Sami Edge | The. “University of Oregon Student Workers Fight for Union, Allege Retaliation.” Oregonlive, 18 Feb. 2023, [University of Oregon Student Workers Fight for Union, Allege Retaliation](www.oregonlive.com/education/2023/02/university-of-oregon-student-workers-fight-for-union-allege-retaliation.html). 
 
-source #9
+### source #9
 
 “L.A.C.E. Framework.” Equity and Inclusion, [L.A.C.E. Framework](inclusion.uoregon.edu/lace-framework). Accessed 23 May 2023. 
 
-source #10
+### source #10
 
 Wheeler, Porter. “Inside the Campaign to Unionize the University of Oregon.” The Nation, 10 Feb. 2023, [Inside the Campaign to Unionize the University of Oregon](www.thenation.com/article/activism/university-oregon-undergraduate-labor-union/.) 
 
-source #11
+### source #11
 
 Gleason, B., & von Gillern, S. (2018). Digital Citizenship with Social Media: Participatory Practices of Teaching and Learning in Secondary Education. Educational Technology & Society, 21 (1), 200–212. [Digital Citizenship with Social Media: Participatory Practices of Teaching and Learning in Secondary Education](https://www.jstor.org/stable/pdf/26273880.pdf?refreqid=excelsior%3Ab02aa7cd7452cf47fb2776764cf06263&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&origin=&initiator=)
 
-source #12
+### source #12
 
 “Univeristy of Oregon Organizations.” - Engage, [University of Oregon Organizations](uoregon.campuslabs.com/engage/organizations). Accessed 23 May 2023.
 
-source #13
+### source #13
 
 Oregonian/OregonLive, Sami Edge | The. “University of Oregon Student Workers Fight for Union, Allege Retaliation.” Oregonlive, 18 Feb. 2023, [University of Oregon Student Workers Fight for Union, Allege Retaliation](www.oregonlive.com/education/2023/02/university-of-oregon-student-workers-fight-for-union-allege-retaliation.html.) 
 
-source #14
+### source #14
 
 Lyon, George Ella. “Models of Excellence.” Where I’m From | Models of Excellence, 2017, [Models of Excellence](modelsofexcellence.eleducation.org/writings/where-im?_ga=2.5723187.1094989728.1621386059-1197592076.1621386059.) 
+
+### source #15
+
+Dobschütz, Sigismund von. “Category:People Using Tablet Computers.” Wikimedia Commons, 2013, [Category:People Using Tablet Computers](commons.wikimedia.org/wiki/Category:People_using_tablet_computers.) 
 
 ## reading plan
 - My intended reading plan is to block off 1-2 hours every other day to focus on course readings and research. My least busy days are Tuesdays and Thursdays which would allow me to prioitize readings prior to class meeting times. Allocating enough time between Monday and Friday for research readings should be easy, as I have gaps between classes and know of abundance of quiet places to work on campus.
