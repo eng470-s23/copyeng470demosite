@@ -135,6 +135,10 @@ source #12
 
 “Univeristy of Oregon Organizations.” - Engage, [University of Oregon Organizations](uoregon.campuslabs.com/engage/organizations). Accessed 23 May 2023.
 
+source #13
+
+Oregonian/OregonLive, Sami Edge | The. “University of Oregon Student Workers Fight for Union, Allege Retaliation.” Oregonlive, 18 Feb. 2023, [University of Oregon Student Workers Fight for Union, Allege Retaliation](www.oregonlive.com/education/2023/02/university-of-oregon-student-workers-fight-for-union-allege-retaliation.html.) 
+
 ## reading plan
 - My intended reading plan is to block off 1-2 hours every other day to focus on course readings and research. My least busy days are Tuesdays and Thursdays which would allow me to prioitize readings prior to class meeting times. Allocating enough time between Monday and Friday for research readings should be easy, as I have gaps between classes and know of abundance of quiet places to work on campus.
 
