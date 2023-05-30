@@ -32,20 +32,11 @@
 - File Name: ua_swinemembership.jpeg
   - Publisher: S.W.I.N.E., University of Oregon
   - Date:
-  - Source:
-  - Author:
+  - Source: Special Archives Collection Univeristy of Oregon
+  - Author: S.W.I.N.E. Members
   - Access Date: 2023.04.25
   - Rights: In copyright
   - License and permission: *Licensing aquired from the University of Oregon Special Collections Archives*
-
-- File Name: uo_lgbtess_instagram.jpeg
-  - Publisher:
-  - Date:
-  - Source:
-  - Author:
-  - Access Date:
-  - Rights: In copyright
-  - License and permission: *Licensing aquired from the creator of the account: @uo_lgbtess* © 2023 Instagram from Meta
 
 - File Name: dailyemerald_UO_protesters.png
   - Publisher: Emerald Media Group
@@ -82,3 +73,12 @@ File Name: wikimedia_2013_tablet.jpeg
   - Access Date: 2023.05.24
   - Rights: Attribution rights
   - License and permission: "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)" by [Sigismund von Dobschütz], licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0), [Link to License](https://creativecommons.org/licenses/by-sa/3.0/).
+
+File Name: uo_lgbtess_2023_instagram.jpeg
+  - Publisher: UO LGBTQ+ Instagram
+  - Date: 2023.05.28
+  - Source: Instagram
+  - Author: Unidentified
+  - Access Date: 2023.05.28
+  - Rights: In copyright
+  - License and permission: *Licensing aquired from the creator of the account: @uo_lgbtess* © 2023 Instagram from Meta 
