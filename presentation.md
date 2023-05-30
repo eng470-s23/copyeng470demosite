@@ -34,7 +34,7 @@ Student activism has had a long history at the University of Oregon dating back 
 
 The initial wave of student activism on UO’s campus came during the 1960s and early 1970s when students began protesting against the Vietnam War. In 1968, a group of students formed the Black Student Union (BSU) to demand greater and equal representation and resources for black students on campus. Because technology and digital media more specifically were not to the level of advancement they are today, they adhered to more physical revolts against the institution. Students organized protests and sit-ins to apply pressure on the university’s administration. This eventually secured the funding for a Black cultural center on campus.
 
-[Embedded Link to UO BSU](https://mnchexhibits.uoregon.edu/racing-to-change/university-of-oregon/black-student-union/)
+[Link to UO BSU](https://mnchexhibits.uoregon.edu/racing-to-change/university-of-oregon/black-student-union/)
 
 During this time, the anti-war movement was also gaining recognition on UO’s campus. Students who felt passionately about this topic organized marches, rallies, and protests to express their rage and dissatisfaction. In 1970, four UO students were shot and killed by National Guard troops during a protest that was taking place at Kent State University, sparking outrage amongst college campuses and within local communities.
 
@@ -42,11 +42,12 @@ Moving forward to the 1980s and 90s, student activism at the University of Orego
 
 Also during this time, LGBTQ+ students and their allies organized to demand greater visibility and support for queer students on campus. In 1933, the Queer Student Union (QSU) was created to provide a safe and inclusive space for LGBTQ+ students to advocate their rights. They lobbied for the creation of a studies program regarding LGBTQ+ rights as well as the inclusion of gender identity and sexual orientation in the university’s non-discrimination policy.
 
-[Embedded Link to LGBTQ+ Education and Support Services](https://dos.uoregon.edu/lgbt)
+[Link to LGBTQ+ Education and Support Services](https://dos.uoregon.edu/lgbt)
+![uo_lgbtess_2023_instagram.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/uo_2023_lgbtessinstagram_permission.jpeg)
 
 More recently, student activism at the Univeristy of Oregon has tended to more issues regarding racial injustice, sexual assault prevention, and immigration rights. In 2015, students organized a series of protests under the banner of the Black Lives Movement, calling for greater attention to systematic racism and police brutality. In 2016, student activists also organized a “Take Back the Night” march to raise awareness about sexual assault and support survivors on and outside of campus.
 
-[Embedded Link to UO Women Center](https://blogs.uoregon.edu/women/category/take-back-the-night/)
+[Link to UO Women Center](https://blogs.uoregon.edu/women/category/take-back-the-night/)
 
 ## What is Digital Media? How Are We Using it?
 Digital media refers to any electronic media that are created, viewed, distributed, and stored using digital technologies. Formats include text, images, audio, and video content that can be shared and accessed through computers, smartphones, tablets, and any other digital devices that remain connected to the internet.
