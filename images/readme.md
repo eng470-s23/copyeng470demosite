@@ -82,3 +82,4 @@ File Name: uo_lgbtess_2023_instagram.jpeg
   - Access Date: 2023.05.28
   - Rights: In copyright
   - License and permission: *Licensing aquired from the creator of the account: @uo_lgbtess* © 2023 Instagram from Meta 
+![uo_lgbtess_2023_instagram_permission.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/uo_2023_lgbtessinstagram_permission.jpeg)
