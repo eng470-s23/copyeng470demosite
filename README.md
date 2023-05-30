@@ -39,4 +39,10 @@ This repository is a demo for ENG 470/570 students to clone in order to create i
 
 ## Credits and Acknowledgments
 
-This is where you'll acknowledge those to whom your project is indebted beyond your named collaborators and the sources on your bibliography.
+The creation of this project could have been executed without the multiple informative sources that guided my research. Covering a wide range of topics and academic discussions, my sources included websites, scholarly articles, special archives, and books written about digital culture, literacy, and its impact on activism. Prompted by my ENG 470 class, this project could not have been completed without the help of my teachers and helpful faculty at the University of Oregon. 
+
+More specifically, I would like to acknowledge my professor, Mattie Burkert, who helped me guide and narrow down my overall research topic and question. Her insight provided me with direction and guidance to unpack the complexity of this topic and how it would be most effectively absorbed and acted upon by my target audience.
+
+This project acknowledges the inconsistencies that students face in educational settings. Targeting scholars and educators, I want to help inform those of the benefits and opportunities that digital media has provided this generation. I also want to provide tools for people who are less familiar with the progression and impact of digital technologies, such as college professors and other supporting faculty. 
+
+I would also like to acknowledge that the use of the S.W.I.N.E. group is not intentionally used in a negative example of activism at the Univeristy of Oregon. The mentioning and research done by this student activist group are simply to recognize the power of using your voice and speaking on what you believe in. 
