@@ -74,7 +74,7 @@ File Name: wikimedia_2013_tablet.jpeg
   - Rights: Attribution rights
   - License and permission: "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)" by [Sigismund von Dobschütz], licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0), [Link to License](https://creativecommons.org/licenses/by-sa/3.0/).
 
-File Name: uo_lgbtess_2023_instagram.jpeg
+File Name: uo_lgbtess_instagram.jpeg
   - Publisher: UO LGBTQ+ Instagram
   - Date: 2023.05.28
   - Source: Instagram
