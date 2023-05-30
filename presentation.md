@@ -43,7 +43,6 @@ Moving forward to the 1980s and 90s, student activism at the University of Orego
 Also during this time, LGBTQ+ students and their allies organized to demand greater visibility and support for queer students on campus. In 1933, the Queer Student Union (QSU) was created to provide a safe and inclusive space for LGBTQ+ students to advocate their rights. They lobbied for the creation of a studies program regarding LGBTQ+ rights as well as the inclusion of gender identity and sexual orientation in the university’s non-discrimination policy.
 
 [Link to LGBTQ+ Education and Support Services](https://dos.uoregon.edu/lgbt)
-![uo_lgbtess_2023_instagram.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/uo_2023_lgbtessinstagram_permission.jpeg)
 
 More recently, student activism at the Univeristy of Oregon has tended to more issues regarding racial injustice, sexual assault prevention, and immigration rights. In 2015, students organized a series of protests under the banner of the Black Lives Movement, calling for greater attention to systematic racism and police brutality. In 2016, student activists also organized a “Take Back the Night” march to raise awareness about sexual assault and support survivors on and outside of campus.
 
@@ -73,6 +72,8 @@ The University of Oregon provides students with access to historic archives and 
 [Patterson Disrupt, Defy, and Demand: Movements Toward Multiculturalism at the University of Oregon, 1968-2015](https://escholarship.org/uc/item/3zq0b64q)
 
 With the use of more modern digital media such as Instagram, TikTok, Facebook, and Twitter student-led groups are now able to mass share events, updates, and general information regarding their cause. Utilizing social media platforms act as a tool to quickly access support and education about the university’s inclusion groups for students that may be unaware of how to access such information through the schools’ website. Instagram is a great platform to create an online community where students can directly communicate with one another as well as stay informed about upcoming events and social organizations, creating accessible opportunities to meet like-minded individuals in their community.
+
+![uo_lgbtess_2023_instagram.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/uo_lgbtess_instagram.jpeg)
 
 [LGBTQ+ Education and Support Instagram](https://www.instagram.com/uo_lgbtess/?hl=en)
 
