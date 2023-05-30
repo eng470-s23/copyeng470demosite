@@ -115,12 +115,6 @@ The framework is inspired by the poem Where I’m From by George Ella Lyon which
 
 ## Conclusion
 
+In short, the University of Oregon can always be doing more. In The Nation article, Elizabeth White states “The university runs better when we’re staffed and not constantly worried about money.” (The Nation) Research shows that the more students are able to voice their beliefs, opinions, and ideologies reflects great the benefits of their studies. It goes without saying that the implications of student efforts have resulted in minimal or opposing results as the University of Oregon itself prohibits the presentation of student union efforts in classrooms. While there is a multitide of ways in which teachers and faculty could do a better job of incorporating activism and encouraging student voices throughout campuses across the nation, it is important to recognize the efforts that have been taken since the expansion of digital media in educational facilities.
 
-
-
-
-_________
-
-You have the option to use a richly formatted Markdown file as your visual aid and accessibility copy for your symposium presentation -- or you can replace this file (and links to it elsewhere in the repository) with a PowerPoint. 
-
-If you're curious how a Markdown file could function as an alternative to traditional slides, you can [check out this presentation Prof. Burkert delivered recently](https://github.com/mattieburkert/asecs23/blob/main/ASECS-2023-Burkert.md).
+I hope this research can act as a guideline to support the incorporation of student equity and activism to more standard teaching practices. Recognizing the importance of maintaining digital literacy while using your voice beyond the screen and how it can create barriers for the impressionable minds of college-aged students, this project encourages the understanding activism beyond university walls. Knowing how to incorporate more modern tools may create discomfort for those who made-do without it, but ignoring the benefits in apprehension of falsification is unjust to project upon those who now must learn to use and benefit from it. Embracing student voices does more than just create a sense confidence within them, it provides a sense of a belonging while creating an opportunity for growth and leadership.
