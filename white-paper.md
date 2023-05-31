@@ -21,7 +21,8 @@ These individual areas of research will allow audiences to better understand why
 
 ## Project Origins and Goals
 
-It's very likely that elements of your pitch and/or environmental scan will be revised and incorporated here. 
+* In this project I will unpack the role of digital media in student activism and how it has created both opportunities and challenges for this technologically advanced generation of students. Something unique about this project is the inclusion of past activist groups on campus and how they operated in terms of successful and harmful acts of social and political justice. I also discuss the implementation of today’s advanced media and technologies that have caused a generational gap in democratic practices, highlighting the ways in which the University of Oregon specifically has overcome such hardships and what methods have changed over time.
+* The tools and methods used for the construction of this multimedia essay are simple yet provide accurate and diverse opinions on the rise of student activism and digital media. Tools used for this essay include social media platforms such as Instagram, Twitter, Facebook, and TikTok to assess the current standing of activist groups across campus. Another tool I implicated during my research was creating a student survey that allowed me to collect data and opinions from students, activists, or both. The information I intend to gather will allow me to form a general idea regarding where students stand in terms of activism and if they feel like they are making a visible difference in their community.
 
 ## Project Activities, Team, and Participants
 
