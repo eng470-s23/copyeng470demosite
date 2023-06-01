@@ -26,6 +26,8 @@ These individual areas of research will allow audiences to better understand why
 
 ## Project Activities, Team, and Participants
 
+who helped me, development of project, meeting with outside sources, referrerd to github sites
+
 ## Project Outcomes
 
 Provide research and guidance to improving equity and inclusion on University of Oregon's campus.
