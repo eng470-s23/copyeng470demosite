@@ -22,12 +22,19 @@ Growing up with technology, this generation of college students has become well 
 
 ## Historical Archives
 ![ua_swine_volume3.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swine_volume3.jpeg)
+
 [Photo of S.W.I.N.E. Volume 3 from UO Special Archives Collection, 1966](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swine_volume3.jpeg)
+
 ![ua_swinedailyemerald.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinedailyemerald.jpeg)
+
 [Photo of The Daily Emerald, S.W.I.N.E., UO Special Archives Collection, 1965](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinedailyemerald.jpeg)
+
 ![ua_swinedailyemerald_essenceofinactivism](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinedailyemerald_essenceofinactivism.jpeg)
+
 [Photo of The Daily Emerald Artcle: Essence of Inactivism, S.W.I.N.E., UO Special Archives Collection, 1969](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinedailyemerald_essenceofinactivism.jpeg)
+
 ![ua_swinemembership.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinemembership.jpeg)
+
 [Photo of S.W.I.N.E Membership Contract, UO Special Archives collection](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinemembership.jpeg)
 
 ## History of Student Activism at the University of Oregon
