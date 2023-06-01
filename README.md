@@ -35,17 +35,13 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 3. Citations for sources are located in the essay
 4. Recommeded [citation](https://guides.lib.umich.edu/c.php?g=439304&p=2993299) for the data
-  - TBD
+  - I had to aquire additional licensing from specific media sites such as The Daily Emerald and Oregon Live.
 
 ## Methodological and Data-specific Information
 1. Description of methods for data collection and processing
+- I had to aquire my data through various sources such as scholarly articles, digital media platforms, and Special Archives Collections located at the University of Oregon.
 2. Project-wide definitions of codes or symbols used to note questionable and missing data 
-3. Project-wide variables list
-    - Name:
-    - Description:
-    - Value Labels:
-4. Units of measurement
-6. Geographic information
+- Common language used: digital media, student actvism, social media, digital literacy, education, and equity.
 
 ## Credits and Acknowledgments
 
