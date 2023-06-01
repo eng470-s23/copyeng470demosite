@@ -22,9 +22,13 @@ Growing up with technology, this generation of college students has become well 
 
 ## Historical Archives
 ![ua_swine_volume3.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swine_volume3.jpeg)
+[Photo of S.W.I.N.E. Volume 3 from UO Special Archives Collection, 1966](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swine_volume3.jpeg)
 ![ua_swinedailyemerald.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinedailyemerald.jpeg)
+[Photo of The Daily Emerald, S.W.I.N.E., UO Special Archives Collection, 1965](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinedailyemerald.jpeg)
 ![ua_swinedailyemerald_essenceofinactivism](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinedailyemerald_essenceofinactivism.jpeg)
+[Photo of The Daily Emerald Artcle: Essence of Inactivism, S.W.I.N.E., UO Special Archives Collection, 1969](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinedailyemerald_essenceofinactivism.jpeg)
 ![ua_swinemembership.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinemembership.jpeg)
+[Photo of S.W.I.N.E Membership Contract, UO Special Archives collection](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinemembership.jpeg)
 
 ## History of Student Activism at the University of Oregon
 Student activism has had a long history at the University of Oregon dating back to the early 20th century. Throughout the years, the student body has been responsible for the organization of protests regarding a large range of causes including civil rights, anti-war efforts, racial injustice, environmentalism, and LGBTQ+ rights.
@@ -111,6 +115,7 @@ In order to raise personal awareness and knowledge within the University of Oreg
 
 ![Where I'm From Poem](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/uo_2017_whereimfrom_lace.jpeg)
 ![Where I'm From Poem](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/uo_2017_whereimfrom_lace1.jpeg)
+[Photo of Where I'm From Poem, George Ella Lyon, 1027](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/uo_2017_whereimfrom_lace1.jpeg)
 
 The framework is inspired by the poem Where I’m From by George Ella Lyon which uses sensory language as a way to tell her origin story. The project prompted students to use descriptive language to discuss core memories of their upbringing, highlighting the beauty of their individuality. The L.A.C.E. Framework is constructed for students to increase their sense of self-awareness in order to generate awareness in their surrounding environments. Self-awareness means becoming aware of where an individual, whether that be yourself or others, comes from or recognizing hardships they might have had to overcome because of their upbringing. Obtaining a sense of community through knowledge should be at the core of all educational systems, as it allows students to feel comfortable in an environment where it's normal to make mistakes and normal to hold different opinions than one's peers. Gaining inspiration from such heartwarming and self-expressive pieces of written works, the L.A.C.E. framework is essentially created by students, for students. Similar frameworks have been incorporated into a large majority of Universities within the United States with one common goal: becoming aware and informed about one’s community and the importance of preserving and incorporating diversity and inclusion within education systems.
 
