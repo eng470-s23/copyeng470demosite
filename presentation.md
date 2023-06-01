@@ -58,7 +58,7 @@ Other than providing the younger generations with a platform to amplify their vo
 ## Digital Literacy - Generational Skepticism in the Media
 
 ![wikimedia_2013_tablet.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/wikimedia_2013_tablet.jpeg)
-[Photo by Sigismund von Dobschütz via Wiki Media Commons](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/wikimedia_2013_tablet.jpeg)
+[Photo by Sigismund von Dobschütz via Wiki Media Commons](https://commons.wikimedia.org/wiki/File:Tablet-PC_Parkwohnstift_05.JPG)
 
 Digital literacy can be defined as the ability to find, evaluate, understand, and communicate information using digital technologies. Digital literacy also includes being able to recognize and critically assess the reliability of online information. While society is well aware of the algorithms and biases that exist in social media, it often goes unnoticed when attaining information through online scholarly databases and search engines. This analysis helps society understand the power of presentation through digital media. 
 
