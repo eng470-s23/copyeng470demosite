@@ -30,7 +30,7 @@ Growing up with technology, this generation of college students has become well 
 Student activism has had a long history at the University of Oregon dating back to the early 20th century. Throughout the years, the student body has been responsible for the organization of protests regarding a large range of causes including civil rights, anti-war efforts, racial injustice, environmentalism, and LGBTQ+ rights.
 
 ![Daily Emerald Protestors Take Action on UO Campus During 16th Week of Protests](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/dailyemerald_UO_protesters.png)
-[Photo from Daily Emerald: Protestors Take Action on UO Campus During 16th Week of Protests](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/dailyemerald_UO_protesters.png)
+[Photo from Daily Emerald: Protestors Take Action on UO Campus During 16th Week of Protests](https://www.dailyemerald.com/news/protesters-take-direct-action-on-uo-campus-during-16th-week-of-protests/article_b74e2dce-09c1-11eb-8f91-77ead8e3ab08.html)
 
 The initial wave of student activism on UO’s campus came during the 1960s and early 1970s when students began protesting against the Vietnam War. In 1968, a group of students formed the Black Student Union (BSU) to demand greater and equal representation and resources for black students on campus. Because technology and digital media more specifically were not to the level of advancement they are today, they adhered to more physical revolts against the institution. Students organized protests and sit-ins to apply pressure on the university’s administration. This eventually secured the funding for a Black cultural center on campus.
 
