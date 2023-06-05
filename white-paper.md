@@ -26,7 +26,7 @@ These individual areas of research will allow audiences to better understand why
 
 ## Project Activities, Team, and Participants
 
-who helped me, development of project, meeting with outside sources, referrerd to github sites
+This project could not have been completed without the help and guidance from my Professor, Mattie Burkert, who helped me refine my research question and gauge an overall direction for my project. Lauryn Cole, a fellow DH minor, also assisted me in putting together some of my final details in order to ensure literacy and clarity. I would also like to aknowledge the University of Oregon's library faculty for assisting me with locating and efficiently using the Special Archives Collection.   
 
 ## Project Outcomes
 
