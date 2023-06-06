@@ -34,7 +34,7 @@ Provide research and guidance to improving equity and inclusion on University of
 
 ## Project Continuation and Long-Term Impact
 
-This project will not be continued after this class. Hopefully the content of this project will hold a lsting impact on audiences to adot progressive practices regarding the encouragement of student activism.
+This project will not be continued after this class. However if more information is discovered or more student movements have created notable impact on the University's standing with activism, I encourgae scholars or other audiences to use my findings as a resource. I hope that the content of this project will hold a lasting impact on audiences to adopt progressive practices regarding the encouragement of student activism.
 
 # Appendix 1: Bibliography
 
