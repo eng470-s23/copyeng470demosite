@@ -3,8 +3,6 @@
 Cover of project [Tool Kit: Embracing Student Voices Through Digital Media & Student Activism](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/presentation.md)
 
 ## Table of Contents
-- Abstract
-- Introduction
 - [S.W.I.N.E.](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#S.W.I.N.E.)
 - [Historical Archives](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#historical-archives)
 - [History of Student Activism at the University of Oregon](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#history-of-student-actvism-at-the-university-of-oregon)
