@@ -1,5 +1,4 @@
-# Multimedia Essay 
-## How Digital Media Affects Student Activism at the University of Oregon: A Toolkit to Embracing Student Voices and Improving Equity
+# How Digital Media Affects Student Activism at the University of Oregon: A Toolkit to Embracing Student Voices and Improving Equity
 
 ![Tool Kit](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/index/coverpage.png)
 
