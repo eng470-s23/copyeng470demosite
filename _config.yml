@@ -3,8 +3,8 @@ plugins:
 - jekll-remote-theme
 
 # Setup
-title:  "Digital Activism at the University of Oregon: A Toolkit For Embracing Student Voices"             
-tagline:            
-description: A Multimedia Essay focussed on the impact of Digital Activism on University of Oregon's campus        
+title:  "Digital Activism at the University of Oregon"             
+tagline: A Toolkit For Embracing Student Voices           
+description: A multimedia essay focussed on the impact of digital activism on University of Oregon's campus        
 url:     http://eng470-s23.github.io          
 baseurl:   /jamieyanofskydemosight/            
