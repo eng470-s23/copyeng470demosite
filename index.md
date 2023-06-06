@@ -1,3 +1,3 @@
 ![Tool Kit](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/index/coverpage.png)
 
-Cover of project [Tool Kit: Embracing Student Voices Through Digital Media & Student Activism](https://github.com/eng470-s23/jamieyanofskydemosight/main/presentation.md)
+Cover of project [Tool Kit: Embracing Student Voices Through Digital Media & Student Activism](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/presentation.md)
