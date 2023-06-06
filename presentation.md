@@ -6,6 +6,21 @@
 [Tool Kit: Embracing Student Voices Through Digital Media & Student Activism](https://github.com/eng470-s23/jamieyanofskydemosight/main/presentation.md)
 
 ### Research Question: How has digital media like social media platforms and other digital media outlets impacted the way students and scholars absorb and act upon activism regarding social issues on college campuses?
+
+## Table of Contents
+- Abstract
+- Introduction
+- [S.W.I.N.E.](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#S.W.I.N.E.)
+- [Historical Archives](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#historical-archives)
+- [History of Student Activism at the University of Oregon](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#history-of-student-actvism-at-the-university-of-oregon)
+- [What is Digital Media? How Are We Usining It?](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#what-is-digital-media-and-how-are-we-using-it)
+- [Digital Literacy - Generational Skepticism in the Media](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#digital-literacy---generational-skepticism-in-the-media)
+- [How Has Media Today Transformed Our Consumption of Activism?](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#how-has-media-today-transformed-our-consumption-of-activism)
+- [Case Study: University of Oregon Students Fight for Union, alleged retaliation](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#case-study-university-of-oregon-students-fight-for-union-alleged-retaliation)
+- [Current UO Student Activist Groups](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#current-uo-student-activist-groups)
+- [The Implication of The L.A.C.E. Framework](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#implication-of-the-lace-framework)
+- [Conclusion](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#conclusion)
+
 ### Abstract
   In this project, I want to explore the effects of digital media on student activism at the University of Oregon. I will be analyzing a collection of historical archives and records of a student activist group, *S.W.I.N.E.*, that took place during the 1960s and 70s, comparing their recognition to more recent activist groups on campus. This will also be directed as insight toward scholars, highlighting the significance of creating an inclusive community on campus. The main comparison that will be analyzed and discussed in this project is the role of technology and how it has assisted or deconstructed the progression of generating awareness and creating visible changes within college communities. I will also be analyzing the role of technology outside of student activism, addressing the ways in which false media prohibits our ability to trust our peers. The role of digital literacy allows us to understand how skepticism toward recent media outrage regarding the UO campus union, is discussed further in a case study. Receiving national recognition allows audiences to gauge a better understanding of current activism on campus and the magnitude of leverage it holds because of media. 
  
