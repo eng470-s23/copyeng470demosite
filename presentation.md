@@ -8,6 +8,7 @@
 ### Research Question: How has digital media like social media platforms and other digital media outlets impacted the way students and scholars absorb and act upon activism regarding social issues on college campuses?
 
 ## Table of Contents
+
 - [S.W.I.N.E.](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#S.W.I.N.E.)
 - [Historical Archives](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#historical-archives)
 - [History of Student Activism at the University of Oregon](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#history-of-student-actvism-at-the-university-of-oregon)
