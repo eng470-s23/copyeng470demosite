@@ -1,4 +1,6 @@
-# White Paper Template
+![Cover Page](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/index/coverpage.png)
+[Photo Created by Jamie Yanofsky via Canva](https://raw.githubuser.com/eng470-s23/jamieyanofskydemosight/main/index/coverpage.png)
+
 ## Table of Contents
 - Abstract
 - Introduction
