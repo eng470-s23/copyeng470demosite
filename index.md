@@ -6,6 +6,7 @@ Cover of project [Tool Kit: Embracing Student Voices Through Digital Media & Stu
 - Abstract
 - Introduction
 - S.W.I.N.E.
+- [Historical Archives](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#historical-archives)
 - History of Student Activism at the University of Oregon
 - What is Digital Media? How Are We Usining It?
 - Digital Literacy - Generational Skepticism in the Media
