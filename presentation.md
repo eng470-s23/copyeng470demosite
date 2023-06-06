@@ -2,7 +2,7 @@
 ## How Digital Media Affects Student Activism at the University of Oregon: A Toolkit to Embracing Student Voices and Improving Equity
 
 ![Cover Page](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/index/coverpage.png)
-[Photo Created by Jamie Yanofsky via Canva](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/index/coverpage.png)
+[Photo Created by Jamie Yanofsky via Canva](https://raw.githubuser.com/eng470-s23/jamieyanofskydemosight/main/index/coverpage.png)
 
 ### Research Question: How has digital media like social media platforms and other digital media outlets impacted the way students and scholars absorb and act upon activism regarding social issues on college campuses?
 ### Abstract
