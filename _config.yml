@@ -1,6 +1,6 @@
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
-- jekll-remote-theme
+- jekyll-remote-theme
 
 # Setup
 title:  "Digital Activism at the University of Oregon"             
