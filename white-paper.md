@@ -13,11 +13,9 @@
 - Conclusion
 
 
-## Project Summary/Abstract (1 paragraph) 
+## Project Summary/Abstract 
 
-In this project, I want to explore the effects of digital media on student activism at the University of Oregon. I will be analyzing a collection of historical archives and records of a student activist group, S.W.I.N.E., that took place during the 1960s and 70s, comparing their recognition to more recent activist groups on campus. This will also be directed as insight toward scholars, highlighting the significance of creating an inclusive community on campus. The main comparison that will be analyzed and discussed in this project is the role of technology and how it has assisted or deconstructed the progression of generating awareness and creating visible changes within college communities. I will also be analyzing the role of technology outside of student activism, addressing the ways in which false media prohibits our ability to trust our peers. The role of digital literacy allows us to understand how skepticism toward recent media outrage regarding the UO campus union, is discussed further in a case study. Receiving national recognition allows audiences to gauge a better understanding of current activism on campus and the magnitude of leverage it holds because of media. 
-
-These individual areas of research will allow audiences to better understand why media can act as both a tool and an obstacle when trying to maintain a grasp on the ever-evolving society in which we live. I want to bring awareness to the benefits of technology on a college campus when used progressively and efficiently by students who have the potential to change the tone of political and social discussions beyond campus walls.
+In this project, I want to explore the effects of digital media on student activism at the University of Oregon. I will be analyzing a collection of historical archives and records of a student activist group, S.W.I.N.E., that took place during the 1960s and 70s, comparing their recognition to more recent activist groups on campus. This will also be directed as insight toward scholars, highlighting the significance of creating an inclusive community on campus. The main comparison that will be analyzed and discussed in this project is the role of technology and how it has assisted or deconstructed the progression of generating awareness and creating visible changes within college communities. I will also be analyzing the role of technology outside of student activism, addressing the ways in which false media prohibits our ability to trust our peers. The role of digital literacy allows us to understand how skepticism toward recent media outrage regarding the UO campus union, is discussed further in a case study. Receiving national recognition allows audiences to gauge a better understanding of current activism on campus and the magnitude of leverage it holds because of media. These individual areas of research will allow audiences to better understand why media can act as both a tool and an obstacle when trying to maintain a grasp on the ever-evolving society in which we live. I want to bring awareness to the benefits of technology on a college campus when used progressively and efficiently by students who have the potential to change the tone of political and social discussions beyond campus walls.
 
 ## Project Origins and Goals
 
@@ -26,7 +24,7 @@ These individual areas of research will allow audiences to better understand why
 
 ## Project Activities, Team, and Participants
 
-This project could not have been completed without the help and guidance from my Professor, Mattie Burkert, who helped me refine my research question and gauge an overall direction for my project. Lauryn Cole, a fellow DH minor, also assisted me in putting together some of my final details in order to ensure literacy and clarity. I would also like to aknowledge the University of Oregon's library faculty for assisting me with locating and efficiently using the Special Archives Collection.   
+This project could not have been completed without the help and guidance from my Professor, Mattie Burkert, who helped me refine my research question and gauge an overall direction for my project. Lauryn Cole, a fellow DH student scholar, also assisted me in putting together some of my final details in order to ensure literacy and clarity. I would also like to aknowledge the University of Oregon's library faculty for assisting me with locating and efficiently using the Special Archives Collection.   
 
 ## Project Outcomes
 
@@ -34,7 +32,7 @@ Provide research and guidance to improving equity and inclusion on University of
 
 ## Project Continuation and Long-Term Impact
 
-This project will not be continued after this class. However if more information is discovered or more student movements have created notable impact on the University's standing with activism, I encourgae scholars or other audiences to use my findings as a resource. I hope that the content of this project will hold a lasting impact on audiences to adopt progressive practices regarding the encouragement of student activism.
+This project is presented in its full completion. However if more information is discovered or more student movements have created notable impact on the University's standing with activism, I encourgae scholars or other audiences to use my findings as a resource. I hope that the content of this project will hold a lasting impact on audiences to adopt progressive practices regarding the encouragement of student activism.
 
 # Appendix 1: Bibliography
 
