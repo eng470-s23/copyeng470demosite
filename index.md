@@ -15,6 +15,14 @@ Cover of project [Tool Kit: Embracing Student Voices Through Digital Media & Stu
 - The Implication of The L.A.C.E. Framework
 - Conclusion
 
+[project-log](/project-log.md)
+
+
+[presentation](/presentation.md)
+
+
+[data-management](/data-management.md)
+
 
 ## Project Summary/Abstract 
 
