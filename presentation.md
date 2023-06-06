@@ -10,7 +10,7 @@
 
 - [S.W.I.N.E.](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#S.W.I.N.E.)
 - [Historical Archives](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#historical-archives)
-- [History of Student Activism at the University of Oregon](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#history-of-student-actvism-at-the-university-of-oregon)
+- [History of Student Activism at the University of Oregon](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#history-of-student-activism-at-the-university-of-oregon)
 - [What is Digital Media? How Are We Usining It?](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#what-is-digital-media-and-how-are-we-using-it)
 - [Digital Literacy - Generational Skepticism in the Media](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#digital-literacy---generational-skepticism-in-the-media)
 - [How Has Media Today Transformed Our Consumption of Activism?](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#how-has-media-today-transformed-our-consumption-of-activism)
