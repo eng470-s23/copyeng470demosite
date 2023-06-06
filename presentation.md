@@ -22,26 +22,26 @@ Growing up with technology, this generation of college students has become well 
  While the organization only lasted until 1969, students were able to gather and record findings which can be located in the school's special collections and university archives. Findings within the historical archive include newspaper articles, student contracts, copies of artworks, and other insightful glimpses into what student activism once looked like at the University of Oregon. Using this student-led group as a primary example of an organization that would benefit from advanced digital media, I want to explore more recent student activist groups and how they are effectively using the media to generate awareness for their cause. I am also curious to explore how a student-led organization group like *S.W.I.N.E* would be received in the media today.
 
 ## Historical Archives
-![ua_swine_volume3.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swine_volume3.jpeg)
+![ua_swine_volume3.jpeg](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/images/ua_swine_volume3.jpeg)
 
-[Photo of S.W.I.N.E. Volume 3 from UO Special Archives Collection, 1966](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swine_volume3.jpeg)
+[Photo of S.W.I.N.E. Volume 3 from UO Special Archives Collection, 1966](https://github.com/eng470-s23/jamieyanofskydemosight/main/images/ua_swine_volume3.jpeg)
 
-![ua_swinedailyemerald.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinedailyemerald.jpeg)
+![ua_swinedailyemerald.jpeg](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/images/ua_swinedailyemerald.jpeg)
 
-[Photo of The Daily Emerald, S.W.I.N.E., UO Special Archives Collection, 1965](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinedailyemerald.jpeg)
+[Photo of The Daily Emerald, S.W.I.N.E., UO Special Archives Collection, 1965](https://github.com/eng470-s23/jamieyanofskydemosight/main/images/ua_swinedailyemerald.jpeg)
 
-![ua_swinedailyemerald_essenceofinactivism](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinedailyemerald_essenceofinactivism.jpeg)
+![ua_swinedailyemerald_essenceofinactivism](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/images/ua_swinedailyemerald_essenceofinactivism.jpeg)
 
-[Photo of The Daily Emerald Artcle: Essence of Inactivism, S.W.I.N.E., UO Special Archives Collection, 1969](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinedailyemerald_essenceofinactivism.jpeg)
+[Photo of The Daily Emerald Artcle: Essence of Inactivism, S.W.I.N.E., UO Special Archives Collection, 1969](https://github.com/eng470-s23/jamieyanofskydemosight/main/images/ua_swinedailyemerald_essenceofinactivism.jpeg)
 
-![ua_swinemembership.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinemembership.jpeg)
+![ua_swinemembership.jpeg](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/images/ua_swinemembership.jpeg)
 
-[Photo of S.W.I.N.E Membership Contract, UO Special Archives collection](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/ua_swinemembership.jpeg)
+[Photo of S.W.I.N.E Membership Contract, UO Special Archives collection](https://github.com/eng470-s23/jamieyanofskydemosight/main/images/ua_swinemembership.jpeg)
 
 ## History of Student Activism at the University of Oregon
 Student activism has had a long history at the University of Oregon dating back to the early 20th century. Throughout the years, the student body has been responsible for the organization of protests regarding a large range of causes including civil rights, anti-war efforts, racial injustice, environmentalism, and LGBTQ+ rights.
 
-![Daily Emerald Protestors Take Action on UO Campus During 16th Week of Protests](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/dailyemerald_UO_protesters.png)
+![Daily Emerald Protestors Take Action on UO Campus During 16th Week of Protests](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/images/dailyemerald_UO_protesters.png)
 [Photo from Daily Emerald: Protestors Take Action on UO Campus During 16th Week of Protests](https://www.dailyemerald.com/news/protesters-take-direct-action-on-uo-campus-during-16th-week-of-protests/article_b74e2dce-09c1-11eb-8f91-77ead8e3ab08.html)
 
 The initial wave of student activism on UO’s campus came during the 1960s and early 1970s when students began protesting against the Vietnam War. In 1968, a group of students formed the Black Student Union (BSU) to demand greater and equal representation and resources for black students on campus. Because technology and digital media more specifically were not to the level of advancement they are today, they adhered to more physical revolts against the institution. Students organized protests and sit-ins to apply pressure on the university’s administration. This eventually secured the funding for a Black cultural center on campus.
@@ -69,7 +69,7 @@ Other than providing the younger generations with a platform to amplify their vo
 
 ## Digital Literacy - Generational Skepticism in the Media
 
-![wikimedia_2013_tablet.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/wikimedia_2013_tablet.jpeg)
+![wikimedia_2013_tablet.jpeg](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/images/wikimedia_2013_tablet.jpeg)
 [Photo by Sigismund von Dobschütz via Wiki Media Commons](https://commons.wikimedia.org/wiki/File:Tablet-PC_Parkwohnstift_05.JPG)
 
 Digital literacy can be defined as the ability to find, evaluate, understand, and communicate information using digital technologies. Digital literacy also includes being able to recognize and critically assess the reliability of online information. While society is well aware of the algorithms and biases that exist in social media, it often goes unnoticed when attaining information through online scholarly databases and search engines. This analysis helps society understand the power of presentation through digital media. 
@@ -85,13 +85,13 @@ The University of Oregon provides students with access to historic archives and 
 
 With the use of more modern digital media such as Instagram, TikTok, Facebook, and Twitter student-led groups are now able to mass share events, updates, and general information regarding their cause. Utilizing social media platforms act as a tool to quickly access support and education about the university’s inclusion groups for students that may be unaware of how to access such information through the schools’ website. Instagram is a great platform to create an online community where students can directly communicate with one another as well as stay informed about upcoming events and social organizations, creating accessible opportunities to meet like-minded individuals in their community.
 
-![uo_lgbtess_2023_instagram.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/uo_lgbtess_instagram.jpeg)
+![uo_lgbtess_2023_instagram.jpeg](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/images/uo_lgbtess_instagram.jpeg)
 
 [LGBTQ+ Education and Support Instagram](https://www.instagram.com/uo_lgbtess/?hl=en)
 
 ## Case Study: University of Oregon Students Fight for Union, alleged retaliation
 
-![oregonlive_2023_studentunion.jpeg](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/oregonlive_2023_studentunion.jpeg)
+![oregonlive_2023_studentunion.jpeg](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/images/oregonlive_2023_studentunion.jpeg)
 [Photo From Oregon Live: University of Oregon Students Fight for Union, alleged retaliation](https://www.oregonlive.com/education/2023/02/university-of-oregon-student-workers-fight-for-union-allege-retaliation.html)
 
 In order to understand the educational outcome of student activist efforts and what specific actions the University of Oregon is taking to educate its students regarding the correlation between activism, digital literacy, and higher education levels, I wanted to examine a case study. The case study I am examining focuses on recent student unionization efforts to fight for pay raises, shorter pay periods, anti-harassment policies, and more. 
@@ -121,9 +121,9 @@ Current UO Student Activist Groups:
 
 In order to raise personal awareness and knowledge within the University of Oregon’s student body and faculty, a framework entitled L.A.C.E. has been developed and incorporated into the university’s community guidelines. Standing for love, authenticity, courage, and empathy, this framework focuses on deepening individual self-awareness and knowledge. The framework is divided into three sections where the first recognizes self-awareness, the second focuses on building connections with individuals and communities, and the third strives to transform individuals, systems, and societies.
 
-![Where I'm From Poem](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/uo_2017_whereimfrom_lace.jpeg)
-![Where I'm From Poem](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/uo_2017_whereimfrom_lace1.jpeg)
-[Photo of Where I'm From Poem, George Ella Lyon, 1027](https://github.com/eng470-s23/jamieyanofskydemosight/blob/main/images/uo_2017_whereimfrom_lace1.jpeg)
+![Where I'm From Poem](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/images/uo_2017_whereimfrom_lace.jpeg)
+![Where I'm From Poem](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/images/uo_2017_whereimfrom_lace1.jpeg)
+[Photo of Where I'm From Poem, George Ella Lyon, 1027](https://github.com/eng470-s23/jamieyanofskydemosight/main/images/uo_2017_whereimfrom_lace1.jpeg)
 
 The framework is inspired by the poem Where I’m From by George Ella Lyon which uses sensory language as a way to tell her origin story. The project prompted students to use descriptive language to discuss core memories of their upbringing, highlighting the beauty of their individuality. The L.A.C.E. Framework is constructed for students to increase their sense of self-awareness in order to generate awareness in their surrounding environments. Self-awareness means becoming aware of where an individual, whether that be yourself or others, comes from or recognizing hardships they might have had to overcome because of their upbringing. Obtaining a sense of community through knowledge should be at the core of all educational systems, as it allows students to feel comfortable in an environment where it's normal to make mistakes and normal to hold different opinions than one's peers. Gaining inspiration from such heartwarming and self-expressive pieces of written works, the L.A.C.E. framework is essentially created by students, for students. Similar frameworks have been incorporated into a large majority of Universities within the United States with one common goal: becoming aware and informed about one’s community and the importance of preserving and incorporating diversity and inclusion within education systems.
 
