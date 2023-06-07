@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-- [S.W.I.N.E.](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#S.W.I.N.E.)
+- [S.W.I.N.E.](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#S.W.I.N.E)
 - [Historical Archives](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#historical-archives)
 - [History of Student Activism at the University of Oregon](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#history-of-student-activism-at-the-university-of-oregon)
 - [What is Digital Media? How Are We Usining It?](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#what-is-digital-media-and-how-are-we-using-it)
@@ -136,7 +136,7 @@ In order to raise personal awareness and knowledge within the University of Oreg
 
 ![Where I'm From Poem](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/images/uo_2017_whereimfrom_lace.jpeg)
 ![Where I'm From Poem](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/images/uo_2017_whereimfrom_lace1.jpeg)
-[Photo of Where I'm From Poem, George Ella Lyon, 1027](https://github.com/eng470-s23/jamieyanofskydemosight/main/images/uo_2017_whereimfrom_lace1.jpeg)
+[Photo of Where I'm From Poem, George Ella Lyon, 2017](https://github.com/eng470-s23/jamieyanofskydemosight/main/images/uo_2017_whereimfrom_lace1.jpeg)
 
 The framework is inspired by the poem Where I’m From by George Ella Lyon which uses sensory language as a way to tell her origin story. The project prompted students to use descriptive language to discuss core memories of their upbringing, highlighting the beauty of their individuality. The L.A.C.E. Framework is constructed for students to increase their sense of self-awareness in order to generate awareness in their surrounding environments. Self-awareness means becoming aware of where an individual, whether that be yourself or others, comes from or recognizing hardships they might have had to overcome because of their upbringing. Obtaining a sense of community through knowledge should be at the core of all educational systems, as it allows students to feel comfortable in an environment where it's normal to make mistakes and normal to hold different opinions than one's peers. Gaining inspiration from such heartwarming and self-expressive pieces of written works, the L.A.C.E. framework is essentially created by students, for students. Similar frameworks have been incorporated into a large majority of Universities within the United States with one common goal: becoming aware and informed about one’s community and the importance of preserving and incorporating diversity and inclusion within education systems.
 
