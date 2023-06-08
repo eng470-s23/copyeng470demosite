@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-- [S.W.I.N.E.](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#S.W.I.N.E)
+- [S.W.I.N.E.](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#S.W.I.N.E.)
 - [Historical Archives](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#historical-archives)
 - [History of Student Activism at the University of Oregon](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#history-of-student-activism-at-the-university-of-oregon)
 - [What is Digital Media? How Are We Usining It?](https://eng470-s23.github.io/jamieyanofskydemosight/presentation.html#what-is-digital-media-and-how-are-we-using-it)
