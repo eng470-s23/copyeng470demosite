@@ -102,7 +102,7 @@ With the use of more modern digital media such as Instagram, TikTok, Facebook, a
 
 [LGBTQ+ Education and Support Instagram](https://www.instagram.com/uo_lgbtess/?hl=en)
 
-## Case Study: University of Oregon Students Fight for Union, alleged retaliation
+## Case Study: University of Oregon Students Fight for Union, alleged retaliation 
 
 ![oregonlive_2023_studentunion.jpeg](https://raw.github.com/eng470-s23/jamieyanofskydemosight/main/images/oregonlive_2023_studentunion.jpeg)
 [Photo From Oregon Live: University of Oregon Students Fight for Union, alleged retaliation](https://www.oregonlive.com/education/2023/02/university-of-oregon-student-workers-fight-for-union-allege-retaliation.html)
